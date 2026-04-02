@@ -1266,7 +1266,8 @@
     "uuid": "^13.0.0",
     "ws": "^8.20.0",
     "yaml": "^2.8.3",
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "@vercel/sandbox": "^3.0.0-beta.11"
   },
   "devDependencies": {
     "@grammyjs/types": "^3.25.0",
